@@ -1,11 +1,22 @@
-keywords:
-  - "2D transition metal oxide heterostructure"
-  - "two-dimensional transition metal oxide heterostructure"
-- "2D TMO heterostructure"
-time:
-  start: 2015
-  end: 2025
-document_type:
-  - Article
-  - Review
-database: Web of Science
+query:
+  object:
+    - "2D transition metal oxide heterostructure"
+  method: '(暂无)'
+
+  context: '(暂无)'
+
+  constraint:
+    database: "Web of Science"
+    time:
+      start: 2015
+      end: 2025
+    document_type:
+      - Article
+      - Review
+changelog:
+  - version: "v0"
+    date: "2026-03-28"
+    author: "陈伯言"
+    change: "初始检索式，完成对象同义词与限定条件定义"
+
+
